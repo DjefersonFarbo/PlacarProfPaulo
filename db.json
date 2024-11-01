@@ -2,63 +2,63 @@
   "placares": [
     {
       "id": 1,
-      "usuario": "Dulce",
-      "game": "svelte wedding",
+      "usuario": "Clinton",
+      "game": "breakable extension",
       "score": 4
     },
     {
       "id": 2,
-      "usuario": "Edgardo",
-      "game": "cool handful",
-      "score": 5
+      "usuario": "Jason",
+      "game": "grown honesty",
+      "score": 1
     },
     {
       "id": 3,
-      "usuario": "Lisandro",
-      "game": "burly charlatan",
-      "score": 5
+      "usuario": "Kraig",
+      "game": "unused comparison",
+      "score": 4
     },
     {
       "id": 4,
-      "usuario": "Richard",
-      "game": "impartial toothpick",
+      "usuario": "Hassan",
+      "game": "kaleidoscopic order",
       "score": 5
     },
     {
       "id": 5,
-      "usuario": "Nakia",
-      "game": "expert swim",
-      "score": 0
+      "usuario": "Blake",
+      "game": "unrealistic cosset",
+      "score": 5
     },
     {
       "id": 6,
-      "usuario": "Margarete",
-      "game": "narrow humor",
-      "score": 3
+      "usuario": "Everardo",
+      "game": "innocent bug",
+      "score": 2
     },
     {
       "id": 7,
-      "usuario": "Daryl",
-      "game": "sentimental metal",
-      "score": 5
-    },
-    {
-      "id": 8,
-      "usuario": "Laurianne",
-      "game": "actual calculus",
+      "usuario": "Joanie",
+      "game": "boring shipper",
       "score": 4
     },
     {
-      "id": 9,
-      "usuario": "Raleigh",
-      "game": "dense pigsty",
+      "id": 8,
+      "usuario": "Xander",
+      "game": "strange gastropod",
       "score": 5
     },
     {
-      "id": 10,
-      "usuario": "Geovanni",
-      "game": "moral sustenance",
+      "id": 9,
+      "usuario": "Christopher",
+      "game": "dirty lady",
       "score": 1
+    },
+    {
+      "id": 10,
+      "usuario": "Nils",
+      "game": "sorrowful vision",
+      "score": 3
     }
   ]
 }

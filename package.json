@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "dev:back": "node generateData.js && json-server --watch db.json --port 3000",
+    "dev:back": "node generateData.js && json-server --watch db.json --port 3333",
     "build": "vite build",
     "preview": "vite preview"
   },
