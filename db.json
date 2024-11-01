@@ -2,63 +2,63 @@
   "placares": [
     {
       "id": 1,
-      "usuario": "Aliza",
-      "game": "known reasoning",
-      "score": 3
+      "usuario": "Zora",
+      "game": "dirty diversity",
+      "score": 5
     },
     {
       "id": 2,
-      "usuario": "Alberta",
-      "game": "dismal armoire",
-      "score": 4
-    },
-    {
-      "id": 3,
-      "usuario": "Meaghan",
-      "game": "blaring analogy",
+      "usuario": "Lavina",
+      "game": "frequent league",
       "score": 2
     },
     {
-      "id": 4,
-      "usuario": "Alejandrin",
-      "game": "honored story",
-      "score": 3
-    },
-    {
-      "id": 5,
-      "usuario": "Dudley",
-      "game": "worldly lava",
+      "id": 3,
+      "usuario": "Jarret",
+      "game": "boring bandwidth",
       "score": 1
     },
     {
-      "id": 6,
-      "usuario": "Denis",
-      "game": "growing nucleotidase",
+      "id": 4,
+      "usuario": "Cassandre",
+      "game": "creamy adviser",
       "score": 0
     },
     {
+      "id": 5,
+      "usuario": "Connor",
+      "game": "basic plumber",
+      "score": 4
+    },
+    {
+      "id": 6,
+      "usuario": "Mathilde",
+      "game": "monstrous CD",
+      "score": 4
+    },
+    {
       "id": 7,
-      "usuario": "Dereck",
-      "game": "cultivated cellar",
-      "score": 3
+      "usuario": "Nat",
+      "game": "purple exterior",
+      "score": 1
     },
     {
       "id": 8,
-      "usuario": "Melvin",
-      "game": "incomparable thorn",
+      "usuario": "Elvis",
+      "game": "thin rim",
       "score": 3
     },
     {
       "id": 9,
-      "usuario": "Hank",
-      "game": "voluminous produce",
-      "score": 0
+      "usuario": "Gustave",
+      "game": "ordinary popularity",
+      "score": 1
     },
     {
       "id": 10,
-      "usuario": "Tyson",
-      "game": "good-natured descent",
-      "score": 0
+      "usuario": "Lonzo",
+      "game": "whole marten",
+      "score": 5
     }
   ]
 }
