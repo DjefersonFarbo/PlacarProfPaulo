@@ -2,63 +2,63 @@
   "placares": [
     {
       "id": 1,
-      "usuario": "Zora",
-      "game": "dirty diversity",
-      "score": 5
+      "usuario": "Dulce",
+      "game": "svelte wedding",
+      "score": 4
     },
     {
       "id": 2,
-      "usuario": "Lavina",
-      "game": "frequent league",
-      "score": 2
+      "usuario": "Edgardo",
+      "game": "cool handful",
+      "score": 5
     },
     {
       "id": 3,
-      "usuario": "Jarret",
-      "game": "boring bandwidth",
-      "score": 1
+      "usuario": "Lisandro",
+      "game": "burly charlatan",
+      "score": 5
     },
     {
       "id": 4,
-      "usuario": "Cassandre",
-      "game": "creamy adviser",
-      "score": 0
+      "usuario": "Richard",
+      "game": "impartial toothpick",
+      "score": 5
     },
     {
       "id": 5,
-      "usuario": "Connor",
-      "game": "basic plumber",
-      "score": 4
+      "usuario": "Nakia",
+      "game": "expert swim",
+      "score": 0
     },
     {
       "id": 6,
-      "usuario": "Mathilde",
-      "game": "monstrous CD",
-      "score": 4
-    },
-    {
-      "id": 7,
-      "usuario": "Nat",
-      "game": "purple exterior",
-      "score": 1
-    },
-    {
-      "id": 8,
-      "usuario": "Elvis",
-      "game": "thin rim",
+      "usuario": "Margarete",
+      "game": "narrow humor",
       "score": 3
     },
     {
+      "id": 7,
+      "usuario": "Daryl",
+      "game": "sentimental metal",
+      "score": 5
+    },
+    {
+      "id": 8,
+      "usuario": "Laurianne",
+      "game": "actual calculus",
+      "score": 4
+    },
+    {
       "id": 9,
-      "usuario": "Gustave",
-      "game": "ordinary popularity",
-      "score": 1
+      "usuario": "Raleigh",
+      "game": "dense pigsty",
+      "score": 5
     },
     {
       "id": 10,
-      "usuario": "Lonzo",
-      "game": "whole marten",
-      "score": 5
+      "usuario": "Geovanni",
+      "game": "moral sustenance",
+      "score": 1
     }
   ]
 }
