@@ -1,6 +1,6 @@
-http://localhost:3000/placares
+http://localhost:3333/placares
 
 ###
 
-http://localhost:3000/placares?score_gt=3
+http://localhost:3333/placares?score_gt=3
 
